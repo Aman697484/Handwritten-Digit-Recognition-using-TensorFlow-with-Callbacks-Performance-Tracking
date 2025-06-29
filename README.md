@@ -81,7 +81,7 @@ Training and validation performance are plotted over epochs:
 
 Here’s how the model visualizes predictions:
 
-![Digit Prediction](mnist_prediction.png)
+![Digit Prediction](mnist_prediction.png.png)
 
 
 ## 📚 License
