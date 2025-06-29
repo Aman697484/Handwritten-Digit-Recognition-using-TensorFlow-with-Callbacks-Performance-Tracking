@@ -84,6 +84,10 @@ Here’s how the model visualizes predictions:
 <p align="center">
   <img src="mnist_prediction.png.png" width="700"/>
 </p>
+<p align="center">
+  <img src="mnist_prediction2.png.png" width="700"/>
+</p>
+
 
 
 ## 📚 License
