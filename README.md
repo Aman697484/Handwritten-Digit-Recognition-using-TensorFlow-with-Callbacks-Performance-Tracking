@@ -83,7 +83,7 @@ Here’s how the model visualizes predictions:
 
 ![Digit Prediction](mnist_prediction.png.png)
 <p align="center">
-  <img src="mnist_prediction.png.png" width="300"/>
+  <img src="mnist_prediction.png.png" width="1000"/>
 </p>
 
 
