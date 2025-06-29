@@ -77,12 +77,11 @@ Training and validation performance are plotted over epochs:
 > 📈 Achieved ~97.7% accuracy on unseen test data.
 
 
-## 📸 Screenshot
+## 📸 Sample Prediction Output
 
-*Add a prediction result screenshot here if you'd like!*  
-```python
-plt.imshow(x_test[0], cmap='gray')
-```
+Here’s how the model visualizes predictions:
+
+![Digit Prediction](mnist_prediction.png)
 
 
 ## 📚 License
