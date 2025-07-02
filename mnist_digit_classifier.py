@@ -57,13 +57,3 @@ plt.plot(history.history['val_loss'], label='Val Loss')
 plt.legend()
 plt.title('Loss over Epochs')
 plt.show()
-
-# The model saving and loading parts are removed as we are training the original model directly
-# model.save("my_mnist_model.h5")
-# from tensorflow.keras.models import load_model
-# model = load_model("my_mnist_model.h5")
-# loss, acc = model.evaluate(x_test, y_test)
-# print("Restored model accuracy:", acc)
-# model.compile(optimizer = 'adam',
-#               loss = 'sparse_categorical_crossentropy',
-#               metrics = ['accuracy'])
